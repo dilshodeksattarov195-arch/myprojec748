@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentferify",
+        "uuid": 2383128,
+        "checksum": "yox61b"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
